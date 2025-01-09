@@ -1,0 +1,24 @@
+Project Overview: Finding where the returns are
+Context: This project was completed as part of a bootcamp to simulate the role of a junior analyst at an retail company: Analyze the high return rates at the Superstore and present findings to the CEO through dashboards and a concise story arc.
+
+1. Analyze Return Trends
+Data Prep: LEFT JOIN Returns table to Orders, create a calculated field for return rates.
+Visuals:
+Scatterplot: Total sales vs. total returns by subcategory.
+Bar chart: Return rate by product category.
+Map: Geographic return trends (state/city).
+Time chart: Seasonal patterns in returns.
+Composite charts: Combine multiple factors (e.g., geography & time).
+Customer Analysis: Identify customers with high return rates (exclude single-order customers).
+
+2. Build the Returns Dashboard
+Create 3 mock-up sketches, select the best, and design a Tableau dashboard.
+Include charts, filters, and user-friendly features to monitor returns.
+
+3. Present Findings
+Summarize analysis with key insights on root causes.
+Recommend actionable steps to reduce returns.
+Deliver a 3–5 minute Tableau Story presentation or submit a PDF with slides.
+Deliverables
+Tableau worksheets, dashboards, and mock-ups.
+Presentation showcasing insights and next steps.
