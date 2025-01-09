@@ -1,0 +1,16 @@
+Project Requirements
+
+1. Analyze Provided Insights and Visuals
+Review the dataset, visualizations, and insights provided.
+Identify relevant findings related to platform success and user engagement challenges.
+Focus on understanding the connection between visuals, insights, and business needs.
+
+2. Draft a Stakeholder Report
+Use a structured template to organize findings.
+Include key insights, their implications, and actionable recommendations.
+Ensure the report aligns with the business challenges and stakeholders’ goals.
+
+3. Present a Professional Summary
+Summarize platform performance, highlighting strengths and areas for improvement.
+Provide clear, data-driven recommendations to enhance user engagement.
+Format the report for stakeholder readability and decision-making.
