@@ -1,1 +1,21 @@
-Requirements go here
+Project Overview: Business Metrics Analysis
+Context
+This project was completed as part of a bootcamp to simulate the role of a junior analyst at an e-commerce company. The objective was to analyze user activity data and deliver actionable insights through metrics and reports.
+
+Project Requirements
+1. Conversion Funnel Analysis
+Create a 3-stage funnel to track user activity (e.g., views → actions → purchases).
+Calculate overall and stage-by-stage conversion rates.
+Present results in a dedicated sheet for clarity.
+2. Cohort Analysis Preparation
+Isolate relevant user activity data (e.g., purchase events).
+Determine first activity dates to group users into cohorts.
+Add calculated fields (e.g., activity month, cohort age) to support analysis.
+3. Retention Rate Calculation
+Group users by cohorts based on their first activity.
+Calculate and display retention rates for each cohort across multiple time periods.
+Use tables to show user retention trends.
+4. Documentation and Presentation
+Summarize findings in an executive summary with key results and methodology.
+Organize sheets for logical flow (summary → results → calculations → raw data).
+Format the spreadsheet for professional readability and usability.
