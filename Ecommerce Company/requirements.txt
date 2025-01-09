@@ -1,0 +1,30 @@
+Project Overview: Turning Event Logs into Business Metrics
+Context: This project simulates the role of a junior analyst at an e-commerce company, where the goal is to analyze raw transaction logs and derive meaningful business insights. Key deliverables include creating a conversion funnel, preparing cohort analysis data, calculating retention rates, and presenting findings in a polished and professional format.
+
+Project Requirements
+1. Build a Conversion Funnel
+Objective: Analyze how effectively the website converts product page views into purchases.
+Steps:
+Create a 3-stage conversion funnel in a pivot table, counting unique users at each stage.
+Add columns for total conversion rates and step-by-step conversion rates using formulas.
+
+2. Prepare Data for Cohort Analysis
+Objective: Group users into acquisition cohorts based on the month of their first purchase and track cohort behavior over time.
+Steps:
+Filter purchase events into a new sheet, "purchase_activity."
+Calculate first purchase dates for each user using a pivot table and the VLOOKUP function.
+Add columns to group data by event month, first purchase month, and cohort age using spreadsheet functions like TEXT() and DATEDIF().
+
+3. Calculate Retention Rates
+Objective: Measure user retention for each cohort over a 4-month period.
+Steps:
+Group data into cohorts in a pivot table on the "cohort_analysis" sheet.
+Create a new "retention_rates" sheet to calculate and display retention rates for each cohort and cohort age.
+Use fixed column references in formulas to calculate rates consistently.
+
+4. Organize and Document the Spreadsheet
+Objective: Ensure the spreadsheet is professional, easy to navigate, and clearly communicates findings.
+Steps:
+Summarize results and key analyses in the "Executive Summary" sheet.
+Add a "Table of Contents" sheet with an organized sheet order and descriptions.
+Format the spreadsheet for readability: apply borders, bold headers, freeze rows, and highlight calculated cells.
