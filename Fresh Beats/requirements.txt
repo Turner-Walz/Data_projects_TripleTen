@@ -1,4 +1,5 @@
-Project Requirements
+Project Overview: Business Metrics Analysis
+Context: This project was completed as part of a bootcamp to simulate the role of a junior analyst at an e-commerce company. The objective was to analyze user activity data and deliver actionable insights through metrics and reports.
 
 1. Analyze Provided Insights and Visuals
 Review the dataset, visualizations, and insights provided.
