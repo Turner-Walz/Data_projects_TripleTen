@@ -1,0 +1,16 @@
+Project: Superstore Data Visualization  
+Context: You’ve been hired to analyze the operations of a superstore to identify ways to boost profitability and avoid bankruptcy. Your task is to create visualizations that answer key business questions across three areas:
+
+1. Profits & Losses
+Identify the top 2 profit centers and 2 biggest loss-makers (e.g., by subcategory, region, or shipping mode).
+Recommend products and subcategories to stop selling and focus on (3 each).
+
+2. Advertising
+Find the 3 best state-month combinations for advertising and visualize monthly profit trends.
+Calculate an advertising budget using 1/5 of profits as a guide.
+
+3. Returned Items
+Analyze product and customer return rates using a calculated field for returns.
+Create a visualization comparing profit vs. return rate by a chosen dimension (e.g., state or product type) and recommend actions based on the findings.
+Deliverables
+Provide clear, actionable insights with visualizations for each question. Support your recommendations with data and ensure the superstore's operations are optimized for profitability.
