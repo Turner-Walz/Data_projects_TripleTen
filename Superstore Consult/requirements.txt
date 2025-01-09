@@ -1,5 +1,5 @@
 Project: Superstore Data Visualization  
-Context: You’ve been hired to analyze the operations of a superstore to identify ways to boost profitability and avoid bankruptcy. Your task is to create visualizations that answer key business questions across three areas:
+Context: This project was completed as part of a bootcamp to simulate the role of a junior analyst at an retail company: You’ve been hired to analyze the operations of a superstore to identify ways to boost profitability and avoid bankruptcy. Your task is to create visualizations that answer key business questions across three areas:
 
 1. Profits & Losses
 Identify the top 2 profit centers and 2 biggest loss-makers (e.g., by subcategory, region, or shipping mode).
