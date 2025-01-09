@@ -1,5 +1,5 @@
 Project Overview: Turning Event Logs into Business Metrics
-Context: This project simulates the role of a junior analyst at an e-commerce company, where the goal is to analyze raw transaction logs and derive meaningful business insights. Key deliverables include creating a conversion funnel, preparing cohort analysis data, calculating retention rates, and presenting findings in a polished and professional format.
+Context: This project was completed as part of a bootcamp to simulate the role of a junior analyst at an e-commerce company, where the goal is to analyze raw transaction logs and derive meaningful business insights. Key deliverables include creating a conversion funnel, preparing cohort analysis data, calculating retention rates, and presenting findings in a polished and professional format.
 
 Project Requirements
 1. Build a Conversion Funnel
