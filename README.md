@@ -11,7 +11,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 5 | [S4 Superstore Consult](https://github.com/Turner-Walz/Data_projects_TripleTen/tree/main/Superstore%20Consult) | **Tool used: Tableau** <br>The project task was to review the superstore’s operations and increase its profitability to avoid bankruptcy.. |
 | 6 | [S5 Superstore Returns](https://github.com/Turner-Walz/Data_projects_TripleTen/tree/main/Superstore%20Returns) | **Tool used: Tableau** <br>The project task was to prepare a report that gives insight into the returning habits of Superstore customers. |
 | 8 | [S6 Shopify](https://github.com/Turner-Walz/Data_projects_TripleTen/tree/main/Spotify) | **project description needed** |
-| 7 | [S7 Zomato](https://github.com/Turner-Walz/Data_projects_TripleTen/tree/main/Zomato) | **Tool used: Power BI** **project description needed**. |
+| 7 | [S7 Zomato](https://github.com/Turner-Walz/Data_projects_TripleTen/tree/main/Zomato) | **Tool used: Tableau/Excel** **project description needed**. |
 
 
 
