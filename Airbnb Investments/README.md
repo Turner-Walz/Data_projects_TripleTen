@@ -19,7 +19,7 @@ Deliverables
 
 
 ![image](https://github.com/user-attachments/assets/9faca6da-6241-45b8-b290-b75cd9bd8574)
-[Vacation Rental Project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Vacation%20Rental/Project%20Vacation%20Rental.xlsx)
+[Vacation Rental Project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Airbnb%20Investments/Project_%20AirBnb%20Investment%20Analysis.xlsx)
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
