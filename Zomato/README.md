@@ -39,12 +39,12 @@ Raw Data can be found here: [All Data Sets](https://1drv.ms/x/c/1ca507718247c69e
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](LINK) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](LINK) | Describes the process, including tools or tech used. |
-| [Data](LINK) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](LINK) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](LINK) | Insights learned from the data analysis. |
-| [Recommendations](LINK) | Recommended direction for the stakeholders based on the final analysis. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Decomposition) | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Findings | Insights learned from the data analysis. |
+| Recommendations | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 Junior Analyst
@@ -56,7 +56,7 @@ Identified trends and patterns in sales performance and formulated business reco
 Compiled a final report summarizing findings and strategic suggestions.
 
 #### Process:
-Familiarized myself with excel data sets and complete data cleaning before import into tableau. Design decomposition outlining what all I will be doing in this analysis. Use Tabluea to create visuals with a story showing the findings that came from the sales analysis. 
+[Decomposition for this project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Decomposition).<br/><br/> Familiarized myself with excel data sets and complete data cleaning before import into tableau. Design decomposition outlining what all I will be doing in this analysis. Use Tabluea to create visuals with a story showing the findings that came from the sales analysis. 
 
 #### Data:
 Data Overview
