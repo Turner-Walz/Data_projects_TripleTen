@@ -48,27 +48,37 @@ Raw Data can be found here: [All Data Sets](https://1drv.ms/x/c/1ca507718247c69e
 | [Notes](LINK) | Lists any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+Junior Analyst
+ 
+Developed the research plan, defining the analysis scope and key questions.
+Cleaned and pre-processed data using Excel, performing calculations and aggregations.
+Designed an interactive Tableau dashboard to visualize key insights.
+Identified trends and patterns in sales performance and formulated business recommendations.
+Compiled a final report summarizing findings and strategic suggestions.
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+Familiarized myself with excel data sets and complete data cleaning before import into tableau. Design decomposition outlining what all I will be doing in this analysis. Use Tabluea to create visuals with a story showing the findings that came from the sales analysis. 
 
 #### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+Data Overview
+The dataset consisted of five tables:
+
+1️⃣ '`orders'` – Contains details about customer orders, including order IDs, timestamps, restaurant IDs, and total order amounts.<br/>
+2️⃣ '`restaurant'` – Includes information about restaurants, such as restaurant IDs, names, locations, and ratings.<br/>
+3️⃣ '`menu'` – Lists available food items, their prices, and the restaurant they belong to.<br/>
+4️⃣ '`food'` – Provides detailed descriptions of food items, including category and popularity.<br/>
+5️⃣ '`users'` – Stores information about customers, such as user IDs, demographics, and activity on the platform.<br/>
+
+
 
 #### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+- We only used the data that was given to us for this project along with the tools Excel and Tableau. 
 
 
 #### Findings:
--LIST KEY INSIGHTS HERE
+-Average Order Value (AOV) was tied directly to the overall revenue being made. Septermber was the only month that did not abide to that logic. Overall ratings did not affect a business's performance. Bigger companies are dominating the market for repeat customers. The all time revenue trends downward for Zomato as a company. 
 
 #### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
+- Zomato should look into why September is the only month out of the year where the average order value did not correlate with the revenue being made at all. They should also focus on improving the AOV in as many markets as possible to try to increase performance of the company. 
 
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
 
