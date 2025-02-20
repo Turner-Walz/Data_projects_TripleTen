@@ -1,0 +1,18 @@
+Project Overview: Sales Analysis for Zomato
+As a Junior Analyst at Zomato, I conducted a Sales Analysis to assess the company's revenue trends, key performance indicators (KPIs), and sales distribution over time. Using Excel, I explored and cleaned the dataset, performed calculations, and identified patterns. I then leveraged Tableau to create interactive visualizations that provide actionable insights into sales performance.
+
+The goal was to understand the dynamics of Zomato’s sales, identify key revenue drivers, and uncover trends that could help improve business strategies.
+
+Project Requirements
+To successfully complete this project, I needed to:
+✅ Select one of the three analysis types—Customer, Restaurant, or Sales (chose Sales Analysis).
+✅ Develop a structured research plan (Decomposition) outlining key questions, hypotheses, and required visualizations.
+✅ Analyze provided datasets, which included food, menu, orders, restaurant, and users tables.
+✅ Use Excel for data exploration, cleaning, and calculations.
+✅ Build an interactive Tableau dashboard that effectively visualizes findings.
+✅ Summarize insights into a final report, including conclusions and business recommendations.
+
+Project Deliverables
+📌 Decomposition (Project Plan) – A structured breakdown of the research process, including objectives, hypotheses, chosen metrics, and planned visualizations.
+📌 Dashboard (Tableau Visualizations) – A fully interactive sales performance dashboard highlighting revenue trends, key metrics, and sales distribution insights.
+📌 Final Report (Business Insights & Recommendations) – A document or presentation summarizing findings, key takeaways, and strategic recommendations for improving Zomato’s sales performance.
