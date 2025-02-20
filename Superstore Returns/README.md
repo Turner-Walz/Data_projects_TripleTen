@@ -34,13 +34,13 @@ This project aims to analyze the high number of returned orders at the Superstor
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](LINK) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](LINK) | Describes the process, including tools or tech used. |
-| [Data](LINK) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](LINK) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](LINK) | Insights learned from the data analysis. |
-| [Recommendations](LINK) | Recommended direction for the stakeholders based on the final analysis. |
-| [Notes](LINK) | Lists any special requests from the reviews or stakeholders unique to this project. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | Describes the process, including tools or tech used. |
+| Data | Describes the data source, including files, tables, and fields. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Findings | Insights learned from the data analysis. |
+| Recommendations | Recommended direction for the stakeholders based on the final analysis. |
+| Notes | Lists any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
 - This project aims to analyze the high number of returned orders at the Superstore. The objective is to identify key factors contributing to returns and develop a data-driven strategy to reduce return rates. The final deliverables will include an analysis report, an interactive Tableau dashboard, and a presentation for the CEO of the Superstore.
