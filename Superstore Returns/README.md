@@ -54,7 +54,7 @@ Data Preparation:
 - Aggregate data by various dimensions (category, customer, geography, time 
 
 #### Data
-The analysis is based on the following datasets:
+The analysis is based on the following datasets:<br/>
 1️⃣ '`Orders'` Contains details of all purchases, including order ID, customer ID, product ID, sales amount, and order date.<br/>
 2️⃣ '`Returns'` Specifies which orders were returned, linked by order ID.<br/>
 3️⃣ '`Products'` Contains product information, including category and subcategory.<br/>
@@ -69,6 +69,6 @@ The analysis is based on the following datasets:
 - The return rates can be tied to certain outlying customers having super high return rates, specific states returning more product than others, and specfici times of year that seem to lead to products getting returned more. 
 
 #### Recommendations/Results:
-- Conduct future studies diving into our high return areas to see what things specifically that could be changed to decrease overall returns. 
+- Conduct future analysis diving deeper into our high return areas to see what things specifically that could be changed to decrease overall returns. 
 
 
