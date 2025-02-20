@@ -14,10 +14,10 @@ Compiled a final report summarizing findings and strategic suggestions.
 Scope
 This project focused on Sales Analysis, examining trends in revenue generation across different restaurants and time periods. Key areas of research included:
 
-🔹 Revenue Dynamics – How have sales fluctuated over time?
-🔹 Sales Distribution – Which restaurants contribute the most to revenue?
-🔹 KPIs & Performance Metrics – Identifying key indicators such as total sales, average order value, and sales frequency.
-🔹 Seasonality & Trends – Identifying peak sales periods and underlying patterns.
+🔹 Revenue Dynamics – How have sales fluctuated over time? <br/>
+🔹 Sales Distribution – Which restaurants contribute the most to revenue?<br/>
+🔹 KPIs & Performance Metrics – Identifying key indicators such as total sales, average order value, and sales frequency.<br/>
+🔹 Seasonality & Trends – Identifying peak sales periods and underlying patterns.<br/>
 
 The analysis was limited to provided datasets (food, menu, orders, restaurant, and users) without incorporating external data sources.
 
@@ -25,16 +25,16 @@ The analysis was limited to provided datasets (food, menu, orders, restaurant, a
 [<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page)  
 
 Video Overview can be found <a href=”URL HERE”><u>here</u>.</a>  
-Project can be found <a href=”https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview”><u>here</u>.</a>  
+Project can be found here: [Zomato Sales Analysis](https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview).<br/>
 Raw Data can be found <a href=”URL HERE”><u>here</u>.</a>  
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 2 | [RAW DATA FILE HERE](https://1drv.ms/x/c/1ca507718247c69e/EcQoxRm0ovRLohqkgZOl5DcBs-vp1o5NJ92MhY3JMPbOMw?e=a7o6S1) | DESCRIPTION HERE |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Requirements.txt](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
