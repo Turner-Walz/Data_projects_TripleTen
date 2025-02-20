@@ -31,9 +31,9 @@ Raw Data can be found here: [All Data Sets](https://1drv.ms/x/c/1ca507718247c69e
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Zomato Sales Analysis](https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](https://1drv.ms/x/c/1ca507718247c69e/EcQoxRm0ovRLohqkgZOl5DcBs-vp1o5NJ92MhY3JMPbOMw?e=a7o6S1) | This includes all the data sets we were given to perform the task at hand. |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Zomato Sales Analysis](https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview) | DESCRIPTION HERE |
+| 3 | [RAW DATA FILE HERE](https://1drv.ms/x/c/1ca507718247c69e/EcQoxRm0ovRLohqkgZOl5DcBs-vp1o5NJ92MhY3JMPbOMw?e=a7o6S1) | This includes all the data sets we were given to perform the task at hand. |
 | 4 | [Requirements.txt](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
