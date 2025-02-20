@@ -22,7 +22,7 @@ The analysis was limited to provided datasets (food, menu, orders, restaurant, a
 
 [<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page)  <br/><br/>
 
-Video Overview can be found <a href=”URL HERE”><u>here</u>.</a>  
+
 Project can be found here: [Zomato Sales Analysis](https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview).<br/>
 Raw Data can be found here: [All Data Sets](https://1drv.ms/x/c/1ca507718247c69e/EcQoxRm0ovRLohqkgZOl5DcBs-vp1o5NJ92MhY3JMPbOMw?e=a7o6S1).<br/>  
 
