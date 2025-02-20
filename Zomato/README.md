@@ -5,7 +5,7 @@
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)  
 
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)  
+[<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page)  
 
 Video Overview can be found <a href=”URL HERE”><u>here</u>.</a>  
 Project can be found <a href=”URL HERE”><u>here</u>.</a>  
