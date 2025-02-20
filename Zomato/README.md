@@ -1,14 +1,31 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧  
 
-# File Title: TITLE HERE  
+# File Title: Zomato Sales Analysis 
 
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)  
+Roles & Responsibilities
+👨‍💻 Junior Analyst (Me)
+
+Developed the research plan, defining the analysis scope and key questions.
+Cleaned and pre-processed data using Excel, performing calculations and aggregations.
+Designed an interactive Tableau dashboard to visualize key insights.
+Identified trends and patterns in sales performance and formulated business recommendations.
+Compiled a final report summarizing findings and strategic suggestions.  
+
+Scope
+This project focused on Sales Analysis, examining trends in revenue generation across different restaurants and time periods. Key areas of research included:
+
+🔹 Revenue Dynamics – How have sales fluctuated over time?
+🔹 Sales Distribution – Which restaurants contribute the most to revenue?
+🔹 KPIs & Performance Metrics – Identifying key indicators such as total sales, average order value, and sales frequency.
+🔹 Seasonality & Trends – Identifying peak sales periods and underlying patterns.
+
+The analysis was limited to provided datasets (food, menu, orders, restaurant, and users) without incorporating external data sources.
 
 
 [<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Overview%20Page)  
 
 Video Overview can be found <a href=”URL HERE”><u>here</u>.</a>  
-Project can be found <a href=”URL HERE”><u>here</u>.</a>  
+Project can be found <a href=”https://public.tableau.com/app/profile/turner.walz/viz/Sprint7-ProjectFinal/Dashboard-Overview”><u>here</u>.</a>  
 Raw Data can be found <a href=”URL HERE”><u>here</u>.</a>  
 
 ### Table of Contents for Repository Artifacts
