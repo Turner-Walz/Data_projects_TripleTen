@@ -12,8 +12,9 @@ This project aims to analyze the high number of returned orders at the Superstor
 - Analyze the correlation between sales and returns.
 - Evaluate return rates by product category, customer behavior, geographic location, and seasonal trends.
 - Develop a Tableau dashboard for monitoring and mitigating return issues.
-- Provide recommendations based on the analysis.
-- Roles & Responsibilities
+- Provide recommendations based on the analysis.<br/>
+
+**Roles & Responsibilities**<br/>
 - Junior Analyst (You): Perform data analysis, create visualizations, and build the dashboard.
 - Team Lead: Provide feedback on analysis, ensure project alignment, and approve deliverables.
 - CEO (Stakeholder): Review insights and recommendations for business decisions. <br/><br/>
