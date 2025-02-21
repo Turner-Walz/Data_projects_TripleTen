@@ -54,7 +54,7 @@ Identified trends and patterns in sales performance and formulated business reco
 Compiled a final report summarizing findings and strategic suggestions.
 
 #### Process:
-[Decomposition for this project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Snip%20of%20Decomposition).<br/><br/> Familiarized myself with excel data sets and complete data cleaning before import into tableau. Design decomposition outlining what all I will be doing in this analysis. Use Tabluea to create visuals with a story showing the findings that came from the sales analysis. 
+[Decomposition for this project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Zomato/Decomposition%20Plan.pdf).<br/><br/> Familiarized myself with excel data sets and complete data cleaning before import into tableau. Design decomposition outlining what all I will be doing in this analysis. Use Tabluea to create visuals with a story showing the findings that came from the sales analysis. 
 
 #### Data:
 Data Overview
