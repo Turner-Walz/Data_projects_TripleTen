@@ -1,5 +1,3 @@
-Projec🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
-
 # File Title: Vacation Rental Analysis 
 
 Project Scope
