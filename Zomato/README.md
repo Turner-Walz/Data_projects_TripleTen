@@ -68,8 +68,6 @@ The dataset consisted of five tables:
 
 
 
-#### Assumptions:
-- We only used the data that was given to us for this project along with the tools Excel and Tableau. 
 
 
 #### Findings:
