@@ -1,5 +1,3 @@
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧  
-
 # File Title: ECommmerce Company  
 
 **Project Overview**
