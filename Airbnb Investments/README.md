@@ -1,5 +1,5 @@
 # File Title: Vacation Rental Analysis 
-
+[Vacation Rental Project](https://docs.google.com/spreadsheets/d/1eOnkKUNXniFtqBsbZL4CgI8m0pCe-pKpNSIYBp_0Lww/edit?usp=sharing) <br><br>
 Project Scope
 This project analyzed Airbnb data to help a client identify the best neighborhoods and property sizes for vacation rentals in Manhattan. The goal was to determine the most attractive listings and calculate their revenue potential.
 
@@ -12,16 +12,12 @@ Roles and Responsibilities
 * Documented all steps in a change log and summarized findings with actionable recommendations.
 
 Deliverables
-*A cleaned and organized dataset, pivot table analysis, revenue projections, and a user-friendly spreadsheet with an executive summary.
+* A cleaned and organized dataset, pivot table analysis, revenue projections, and a user-friendly spreadsheet with an executive summary.
 
 
 
 ![image](https://github.com/user-attachments/assets/9faca6da-6241-45b8-b290-b75cd9bd8574)
 [Vacation Rental Project](https://docs.google.com/spreadsheets/d/1eOnkKUNXniFtqBsbZL4CgI8m0pCe-pKpNSIYBp_0Lww/edit?usp=sharing)
-
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
-Project can be found <a href='URL HERE’><u>here</u>.</a>
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
@@ -56,11 +52,11 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 8) **Documentation**: Create organizational sheets like an executive summary, table of contents, assumptions log, and change log.
 
 #### Data
-The data was one Google spreadsheet file provided by TripleTen.
-- `'nyc_airbnb_data.csv'`: each row corresponds to one listing on Airbnb in September 2022
-    - `'data_dictionary'`: summary of field titles seen in the file and its data type
-    - `'listings'`: uniquely listings available with all available data
-    - `'calendar'`: listings with upcoming availabilities and date-type data
+The data was one Google spreadsheet file provided by TripleTen.<br>
+    - `'nyc_airbnb_data.csv'`: each row corresponds to one listing on Airbnb in September 2022<br>
+    - `'data_dictionary'`: summary of field titles seen in the file and its data type<br>
+    - `'listings'`: uniquely listings available with all available data<br>
+    - `'calendar'`: listings with upcoming availabilities and date-type data<br>
 
 #### Assumptions:
 - Data only reflects a one month period in the year 2022 from September 7th to October 6th. Other months were not considered.
