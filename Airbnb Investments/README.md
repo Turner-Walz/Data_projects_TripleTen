@@ -28,8 +28,7 @@
 
 
 #### Description:
-- This project format was in excel and has nine sheets in total.
-- Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
+- This project format was in excel and has nine sheets in total. It also includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts. We were able to draw insights backed by concrete data showing which areas performed the best and where a client could invest their money. 
 
 #### Process:
 1) **Data Preparation**: Filtering techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
