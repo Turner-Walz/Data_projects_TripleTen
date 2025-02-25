@@ -17,7 +17,8 @@ As a junior analyst at an e-commerce company, your primary task is to analyze ra
 
 - Tools Used: Google Sheets (Excel equivalent), pivot tables, formulas (VLOOKUP, TEXT, DATEDIF, etc.).
 
-- Deliverables: Conversion funnel analysis, cohort retention analysis, executive summary, and a well-documented spreadsheet.
+**Deliverables** 
+- Conversion funnel analysis, cohort retention analysis, executive summary, and a well-documented spreadsheet.
 
 
 [<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Ecommerce%20Company/Snip%20of%20Table%20of%20Contents%20Page" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Ecommerce%20Company/Snip%20of%20Table%20of%20Contents%20Page)  
