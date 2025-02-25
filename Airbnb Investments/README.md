@@ -3,7 +3,7 @@
 Project Scope
 This project analyzed Airbnb data to help a client identify the best neighborhoods and property sizes for vacation rentals in Manhattan. The goal was to determine the most attractive listings and calculate their revenue potential.
 
-Roles and Responsibilities
+**Roles and Responsibilities**
 
 * Cleaned raw data by standardizing neighborhood names and handling missing values.
 * Used Excel to create pivot tables and identify top neighborhoods and property sizes based on reviews.
@@ -11,7 +11,7 @@ Roles and Responsibilities
 * Visualized key insights with charts and maintained clear, consistent formatting.
 * Documented all steps in a change log and summarized findings with actionable recommendations.
 
-Deliverables
+**Deliverables**
 * A cleaned and organized dataset, pivot table analysis, revenue projections, and a user-friendly spreadsheet with an executive summary.
 
 
