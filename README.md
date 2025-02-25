@@ -1,5 +1,5 @@
 # TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+I attended a Business Intelligance Bootcamp that taught me key skills to thrive in the data analytics field. During this boot camp I completed multiple projects that challenged me to be creative and resourcful to draw meaningful insights, and work on formatting so that my findings are loud and clear! 
 
 
 | Project number | Title | Description |
