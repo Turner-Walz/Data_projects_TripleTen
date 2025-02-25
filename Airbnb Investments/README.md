@@ -41,11 +41,15 @@
 8) **Documentation**: Create organizational sheets like an executive summary, table of contents, assumptions log, and change log.
 
 #### Data
-The data was one Google spreadsheet file provided by TripleTen.<br>
-    - `'nyc_airbnb_data.csv'`: each row corresponds to one listing on Airbnb in September 2022<br>
-    - `'data_dictionary'`: summary of field titles seen in the file and its data type<br>
-    - `'listings'`: uniquely listings available with all available data<br>
-    - `'calendar'`: listings with upcoming availabilities and date-type data<br>
+The data was a Google spreadsheet file provided by TripleTen.<br>
+
+`'nyc_airbnb_data.csv'`: each row corresponds to one listing on Airbnb in September 2022<br>
+
+`'data_dictionary'`: summary of field titles seen in the file and its data type<br>
+
+`'listings'`: uniquely listings available with all available data<br>
+
+`'calendar'`: listings with upcoming availabilities and date-type data<br>
 
 #### Assumptions:
 - Data only reflects a one month period in the year 2022 from September 7th to October 6th. Other months were not considered.
