@@ -28,6 +28,7 @@ As a junior analyst at an e-commerce company, your primary task is to analyze ra
 #### Data
 
 The dataset contains user activity logs with the following attributes:
+
 `'user_id'` - Unique identifier for each customer.
 
 `'event_type'` - Type of activity (e.g., page view, cart open, purchase).
