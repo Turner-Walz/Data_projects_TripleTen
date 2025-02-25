@@ -1,6 +1,4 @@
-# File Title: Superstore Returns  
-
-**Superstore Returns Analysis**
+# File Title: Superstore Returns Analysis  
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
