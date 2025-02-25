@@ -1,9 +1,9 @@
 # File Title: Vacation Rental Analysis 
 [Vacation Rental Project](https://docs.google.com/spreadsheets/d/1eOnkKUNXniFtqBsbZL4CgI8m0pCe-pKpNSIYBp_0Lww/edit?usp=sharing) <br><br>
-Project Scope
-This project analyzed Airbnb data to help a client identify the best neighborhoods and property sizes for vacation rentals in Manhattan. The goal was to determine the most attractive listings and calculate their revenue potential.
+**Overview** <br>
+- This project analyzed Airbnb data to help a client identify the best neighborhoods and property sizes for vacation rentals in Manhattan. The goal was to determine the most attractive listings and calculate their revenue potential.
 
-**Roles and Responsibilities**
+**Project Scope**
 
 * Cleaned raw data by standardizing neighborhood names and handling missing values.
 * Used Excel to create pivot tables and identify top neighborhoods and property sizes based on reviews.
