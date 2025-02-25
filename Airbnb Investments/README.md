@@ -1,5 +1,12 @@
 # File Title: Vacation Rental Analysis 
-[Vacation Rental Project](https://docs.google.com/spreadsheets/d/1eOnkKUNXniFtqBsbZL4CgI8m0pCe-pKpNSIYBp_0Lww/edit?usp=sharing) <br><br>
+
+### Table of Contents for Repository Artifacts
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [Vacation Rental Project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Vacation%20Rental/Project%20Vacation%20Rental.xlsx) | The final project report for the rental analysis. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Vacation%20Rental/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
 **Overview** <br>
 - This project analyzed Airbnb data to help a client identify the best neighborhoods and property sizes for vacation rentals in Manhattan. The goal was to determine the most attractive listings and calculate their revenue potential.
 
@@ -19,30 +26,13 @@
 ![image](https://github.com/user-attachments/assets/9faca6da-6241-45b8-b290-b75cd9bd8574)
 [Vacation Rental Project](https://docs.google.com/spreadsheets/d/1eOnkKUNXniFtqBsbZL4CgI8m0pCe-pKpNSIYBp_0Lww/edit?usp=sharing)
 
-### Table of Contents for Repository Artifacts
-| File Number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | [Vacation Rental Project](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Vacation%20Rental/Project%20Vacation%20Rental.xlsx) | The final project report for the rental analysis. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Vacation%20Rental/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-
-### Table of Contents for README
-| Section Title | Description |
-| ----------- |----------- |
-| Description | This describes what tools I used and what the project consisted of. |
-| Process | Describes the process, including tools or tech used. |
-| Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
-| Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
 - This project format was in excel and has nine sheets in total.
 - Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
 
 #### Process:
-1) **Data Preparation**: *Filtering* techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
+1) **Data Preparation**: Filtering techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
 2) **Neighborhood Analysis**: Identify the top-performing neighborhoods based on review frequency via *Pivot Table*.
 3) **Property Size Analysis**: Determine the optimal property sizes for each neighborhoodvia *Pivot Table* showcased with *conditional formatting*.
 4) **Revenue Analysis**: Calculate estimated annual revenue for the most attractive listings.
@@ -68,6 +58,3 @@ The data was one Google spreadsheet file provided by TripleTen.<br>
 - The 3 most popular property sizes by number of bedrooms were studios, single bedrooms, and 2 bedrooms.
 - The listing ID 49946551 was the top-earning listing as seen on pivot table name: Top Revenue by Listing Pivot Table.
 
-
-#### Notes:
-Project was accepted as is by reviewer from the first itteration of the project.
