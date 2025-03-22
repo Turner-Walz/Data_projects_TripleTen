@@ -3,7 +3,7 @@
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Superstore Returns](https://public.tableau.com/app/profile/turner.walz/viz/Sprint5Project-StorytellingWithData/Story) | A project that analyzes where the high number of returns are coming from for a retail store. |
+| 1 | [Superstore Returns](https://public.tableau.com/app/profile/turner.walz/viz/ProjectSuperstoreReturns/Story?publish=yes) | A project that analyzes where the high number of returns are coming from for a retail store. |
 | 2 | [Raw Data File](https://1drv.ms/x/c/1ca507718247c69e/ESxe-eHrW0hGu_oJGe_8f7gBAUTrdZJTTf8i1YiuhixKDg?e=XIqBWH&nav=MTVfezg1QkZFNkVELTlCNEItNEE5Ny05Q0U0LTNEODEyRTEzNUZGNX0) | The data that was imported into Tableau for analysis. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Superstore%20Returns/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
@@ -22,7 +22,7 @@ This project aims to analyze the high number of returned orders at the Superstor
 
 
 [<img src="https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Superstore%20Returns/Snip%20of%20Project%20Dashboard" alt="First Sheet of Project**">](https://github.com/Turner-Walz/Data_projects_TripleTen/blob/main/Superstore%20Returns/Snip%20of%20Project%20Dashboard)  
-[Project here](https://public.tableau.com/app/profile/turner.walz/viz/Sprint5Project-StorytellingWithData/Story) <br/>
+[Project here](https://public.tableau.com/app/profile/turner.walz/viz/ProjectSuperstoreReturns/Story?publish=yes) <br/>
 [Raw Data here](https://1drv.ms/x/c/1ca507718247c69e/ESxe-eHrW0hGu_oJGe_8f7gBAUTrdZJTTf8i1YiuhixKDg?e=XIqBWH&nav=MTVfezg1QkZFNkVELTlCNEItNEE5Ny05Q0U0LTNEODEyRTEzNUZGNX0) <br/><br/>
 
 #### Description:
